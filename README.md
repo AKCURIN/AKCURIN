@@ -26,6 +26,10 @@ Talk to me about
 
 
 
-<p align="center"> <a href="https://www.codewars.com/users/kilocod3"> <img src="URL:https://www.codewars.com/users/AKCURIN/badges/large"/> </a> </p>
+<p align="center">
+  <a href="https://www.codewars.com/users/kilocod3"> 
+    <img src="URL:https://www.codewars.com/users/AKCURIN/badges/large"/>
+  </a>
+</p>
 
 ###  📫 How to reach me:
