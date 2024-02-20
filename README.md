@@ -32,6 +32,6 @@ Talk to me about
         #No comments
     </p>
 </samp>
-<p align="center"> <a href=" https://www.codewars.com/users/AKCURIN/badges/large"> <img src="https://www.codewars.com/users/kilocod3/badges/large"/> </a> </p>
+<p align="center"> <a href=" https://www.codewars.com/users/AKCURIN/badges/large"> <img src="https://www.codewars.com/users/AKCURIN/badges/large"/> </a> </p>
 
 ###  📫 How to reach me:
