@@ -1,6 +1,6 @@
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Kerim, Developer from Russia who is passionate about technologies and innovation
+I'm Kerim, Developer who is passionate about technologies and innovation
 
 
 ### ⚡ Technologies
@@ -21,6 +21,5 @@ Talk to me about
         #No comments
     </p>
 </samp>
-<p align="center"> <a href=" https://www.codewars.com/users/AKCURIN/badges/large"> <img src="https://www.codewars.com/users/AKCURIN/badges/large"/> </a> </p>
 
 ###  📫 How to reach me:
